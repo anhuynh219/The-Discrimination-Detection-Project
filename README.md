@@ -4,9 +4,9 @@ ViRDC Dataset
     The ViRDC (Vietnam Regional Discrimination Comments) dataset contains approximately 17,000 Vietnamese language comments about regional discrimination on social media platforms like Facebook, TikTok, YouTube...
 2. Labels
     There are three types of labels:
-    - Phân biệt (Discrimination)
-    - Ủng hộ (Supportive)
-    - Khác (Other)
+    - Discrimination (Phân biệt)
+    - Supportive (Ủng hộ)
+    - Other (Khác)
 3. Content
     - The dataset includes many spam comments.
     - Most discrimination comments target people from the Southside and Northside of Vietnam.
