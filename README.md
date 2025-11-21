@@ -54,24 +54,27 @@ We experimented with both traditional Machine Learning and State-of-the-art Tran
 ## System Architecture
 
 <div align="center">
-    <img style="border-radius: 15px" src="img/data_labeling_process.jpg" alt="Labeling Process" width="400" /> 
-    <p style="font-size: 0.9em; font-style: italic; color: #000000ff; margin-top: 5px; text-align: center;">
+
+<div>
+    <img style="border-radius: 15px" src="img/data_labeling_process.jpg" alt="Labeling Process" width="500" /> 
+    <p style="font-size: 0.9em; font-style: italic; color: #000000ff; margin-top: 5px;">
         Figure 1: Data Labeling Process
     </p>    
 </div>
-
-<div align="center">
-    <img style="border-radius: 15px" src="img/preprocessing.jpg" alt="Sơ đồ kiến trúc hệ thống Big Data" width="400" /> 
-    <p style="font-size: 0.9em; font-style: italic; color: #000000ff; margin-top: 5px; text-align: center;">
+<div>
+    <img style="border-radius: 15px" src="img/preprocessing.jpg" alt="Sơ đồ kiến trúc hệ thống Big Data" width="500" /> 
+    <p style="font-size: 0.9em; font-style: italic; color: #000000ff; margin-top: 5px;">
         Figure 2: Preprocessing Steps
     </p>    
 </div>
 
-<div align="center">
-    <img style="border-radius: 15px" src="img/proposed_system.jpg" alt="Sơ đồ kiến trúc hệ thống Big Data" width="400" /> 
-    <p style="font-size: 0.9em; font-style: italic; color: #000000ff; margin-top: 5px; text-align: center;">
+<div>
+    <img style="border-radius: 15px" src="img/proposed_system.jpg" alt="Sơ đồ kiến trúc hệ thống Big Data" width="500" /> 
+    <p style="font-size: 0.9em; font-style: italic; color: #000000ff; margin-top: 5px;">
         Figure 3: The architecture of the proposed system
     </p>    
+</div>
+
 </div>
 
 
@@ -93,8 +96,8 @@ We experimented with both traditional Machine Learning and State-of-the-art Tran
 ### Steps
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/ViRDC-Detection.git](https://github.com/yourusername/ViRDC-Detection.git)
-    cd ViRDC-Detection
+    git clone https://github.com/yourusername/ViRDC-Detection.git 
+    cd The-Discrimination-Detection-Project
     ```
 
 ## 📚 Citation
