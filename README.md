@@ -1,7 +1,7 @@
 # A Big Data-empowered System for Real-time Detection of Regional Discriminatory Comments on Vietnamese Social Media
 
-![📃Paper](https://ieeexplore.ieee.org/abstract/document/10908137)
-![😊Huggingface](https://huggingface.co/datasets/anhuynh19/pbvm)
+[![IEEE](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2411.02587)
+[![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/anhuynh19/pbvm)
 
 This repository contains the implementation and dataset for the paper **"A Big Data-empowered System for Real-time Detection of Regional Discriminatory Comments on Vietnamese Social Media"**.
 
